@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="innerFooter">
           <div className="logoParagraph">
             <div className="logo">
-              <img src="/assets/Group.png" alt="logo" />
+              <img src="./assets/Group.png" alt="logo" />
               <div className="text">
                 ClearLink
                 <span>.</span>
@@ -122,18 +122,18 @@ const Footer = () => {
 
             <div className="linksLine">
               <h5 className="footerHeaderLast">Get the app</h5>
-              <img src="/assets/Mobile-app-store-badge-1.svg" alt="App store" className="appstore"/>
+              <img src="./assets/Mobile-app-store-badge-1.svg" alt="App store" className="appstore"/>
 
               <div className="google">
                 <img
-                  src="/assets/Mobile-app-store-badge-2.svg"
+                  src="./assets/Mobile-app-store-badge-2.svg"
                   alt="Google play"
                 />
 
                 <div className="googleText">
-                  <img src="/assets/Get-it-on.svg" alt="Google play" />
+                  <img src="./assets/Get-it-on.svg" alt="Google play" />
 
-                  <img src="/assets/Google-Play.svg" alt="Google play" />
+                  <img src="./assets/Google-Play.svg" alt="Google play" />
                 </div>
               </div>
             </div>
@@ -145,12 +145,12 @@ const Footer = () => {
         <div className="copyright">
           <div className="year">© 2023 ClearLink. All rights reserved.</div>
           <div className="socialPlatforms">
-            <img src="/assets/LinkedIn.svg" alt="linkedin" className="social-icons" />
-            <img src="/assets/X.svg" alt="twitter" className="social-icons" />
-            <img src="/assets/Facebook.svg" alt="facebook" className="social-icons" />
-            <img src="/assets/Instagram.svg" alt="instagram" className="social-icons" />
-            <img src="/assets/GitHub.svg" alt="github" className="social-icons" />
-            <img src="/assets/Lozenge.svg" alt="youtube"  className="social-icons"/>
+            <img src="./assets/LinkedIn.svg" alt="linkedin" className="social-icons" />
+            <img src="./assets/X.svg" alt="twitter" className="social-icons" />
+            <img src="./assets/Facebook.svg" alt="facebook" className="social-icons" />
+            <img src="./assets/Instagram.svg" alt="instagram" className="social-icons" />
+            <img src="./assets/GitHub.svg" alt="github" className="social-icons" />
+            <img src="./assets/Lozenge.svg" alt="youtube"  className="social-icons"/>
           </div>
         </div>
       </div>

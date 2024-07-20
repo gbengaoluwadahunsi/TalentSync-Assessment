@@ -27,37 +27,37 @@ const Support = () => {
                 right fit for your needs.
               </p>
             </div>
-            <img src="/assets/minus-circle.svg" alt="minus-circle" />
+            <img src="./assets/minus-circle.svg" alt="minus-circle" />
           </div>
 
           <div className="secondSectionQuestions">
             <div className="faqQuestions border-line">
               <h3>Can I use ClearLink on multiple devices?</h3>
-              <img src="/assets/plus-circle.svg" alt="plus" />
+              <img src="./assets/plus-circle.svg" alt="plus" />
             </div>
 
             <div className="faqQuestions border-line">
               <h3>
                 Is ClearLink compatible with other video conferencing platforms?
               </h3>
-              <img src="/assets/plus-circle.svg" alt="plus" />
+              <img src="./assets/plus-circle.svg" alt="plus" />
             </div>
 
             <div className="faqQuestions border-line">
               <h3>
                 How does ClearLink ensure the security of my video conferences?
               </h3>
-              <img src="/assets/plus-circle.svg" alt="plus" />
+              <img src="./assets/plus-circle.svg" alt="plus" />
             </div>
 
             <div className="faqQuestions border-line">
               <h3>Do I need to download any software to use ClearLink?</h3>
-              <img src="/assets/plus-circle.svg" alt="plus" />
+              <img src="./assets/plus-circle.svg" alt="plus" />
             </div>
 
             <div className="faqQuestions">
               <h3>What kind of customer support does ClearLink provide?</h3>
-              <img src="/assets/plus-circle.svg" alt="plus" />
+              <img src="./assets/plus-circle.svg" alt="plus" />
             </div>
           </div>
         </div>

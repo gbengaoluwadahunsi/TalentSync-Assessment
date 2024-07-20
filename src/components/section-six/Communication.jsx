@@ -10,22 +10,22 @@ const Communication = () => {
         </h2>
         <div className="planSection">
           <div className="plan">
-            <img src="/assets/check-circle.svg" alt="check-icon" />
+            <img src="./assets/check-circle.svg" alt="check-icon" />
             <p>30 days free trial</p>
           </div>
 
           <div className="plan">
-            <img src="/assets/check-circle.svg" alt="check-icon" />
+            <img src="./assets/check-circle.svg" alt="check-icon" />
             <p>Cancel at any time</p>
           </div>
 
           <div className="plan">
-            <img src="/assets/check-circle.svg" alt="check-icon" />
+            <img src="./assets/check-circle.svg" alt="check-icon" />
             <p>Access to all features</p>
           </div>
 
           <div className="plan">
-            <img src="/assets/check-circle.svg" alt="check-icon" />
+            <img src="./assets/check-circle.svg" alt="check-icon" />
             <p>Peronalized onboarding</p>
           </div>
         </div>
@@ -38,7 +38,7 @@ const Communication = () => {
 
       <div className="imageRight">
         <div className="callImage">
-          <img src="/assets/Screen-mockup.png" alt="sideCallImage" className="sideCallImage" width={823} height={540}/>
+          <img src="./assets/Screen-mockup.png" alt="sideCallImage" className="sideCallImage" width={823} height={540}/>
         </div>
       </div>
     </div>

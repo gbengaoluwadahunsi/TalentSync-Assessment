@@ -4,7 +4,7 @@ const Advantage = () => {
   return (
     <div className="general">
       <div className="firstSection">
-        <img className="arrow" src="/assets/Hand-drawn-arrow.svg" alt="arrow" />
+        <img className="arrow" src="./assets/Hand-drawn-arrow.svg" alt="arrow" />
         <h4>The ClearLink Advantage</h4>
         <h2 className="title">Why choose ClearLink?</h2>
         <p className="paragraph">
@@ -17,7 +17,7 @@ const Advantage = () => {
         <div className="leftText">
           <div className="singleText">
             <div className="icon adjust">
-              <img src="/assets/video-recorder-01.svg" alt="record" />
+              <img src="./assets/video-recorder-01.svg" alt="record" />
             </div>
 
             <div className="sub">
@@ -31,7 +31,7 @@ const Advantage = () => {
 
           <div className="singleText">
             <div className="icon">
-              <img src="/assets/recording-01.svg" alt="noise" />
+              <img src="./assets/recording-01.svg" alt="noise" />
             </div>
 
             <div className="sub">
@@ -45,7 +45,7 @@ const Advantage = () => {
 
           <div className="singleText">
             <div className="icon">
-              <img src="/assets/calendar.svg" alt="calender" />
+              <img src="./assets/calendar.svg" alt="calender" />
             </div>
 
             <div className="sub">
@@ -60,7 +60,7 @@ const Advantage = () => {
 
           <div className="singleText">
             <div className="icon">
-              <img src="/assets/lock-unlocked-04.svg" alt="" />
+              <img src="./assets/lock-unlocked-04.svg" alt="" />
             </div>
 
             <div className="sub">
@@ -74,7 +74,7 @@ const Advantage = () => {
         </div>
 
         <div className="rightImage">
-          <img src="/assets/Rectangle-1.png" alt="grouppics" />
+          <img src="./assets/Rectangle-1.png" alt="grouppics" />
         </div>
       </div>
     </div>
